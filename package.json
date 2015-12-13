@@ -1,0 +1,28 @@
+{
+  "name": "ld34",
+  "version": "1.0.0",
+  "description": "ludum dare entry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/insanity54/ld34"
+  },
+  "author": "Chris Grimmett <chris@grimtech.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/insanity54/ld34/issues"
+  },
+  "homepage": "https://github.com/insanity54/ld34",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {
+    "jquery": "^2.1.4",
+    "pixi.js": "^3.0.8",
+    "underscore": "^1.8.3",
+    "wolfy87-eventemitter": "^4.3.0"
+  }
+}
