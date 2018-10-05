@@ -1,4 +1,7 @@
 # ld34
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/insanity54/ld34.svg)](https://greenkeeper.io/)
+
 ludum dare entry
 
 
